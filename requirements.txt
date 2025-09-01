@@ -4,5 +4,5 @@ transformers
 torch
 Pillow
 python-multipart
-deepface
+deepface[torch]
 easyocr
